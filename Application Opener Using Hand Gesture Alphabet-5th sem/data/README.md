@@ -8,9 +8,9 @@
 *t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)*      
          
  ## Download all above mentioned datasets and rename it accordingly     
- - train-images-idx3-ubyte.gz to ** emnist-letters-train-images-idx3-ubyte.gz **      
- - train-labels-idx1-ubyte.gz to ** emnist-letters-train-labels-idx1-ubyte.gz **      
- - t10k-images-idx3-ubyte.gz to ** emnist-letters-t10k-images-idx3-ubyte.gz **      
- - t10k-labels-idx1-ubyte.gz to ** emnist-letters-t10k-labels-idx1-ubyte.gz **      
+ - train-images-idx3-ubyte.gz to **emnist-letters-train-images-idx3-ubyte.gz**      
+ - train-labels-idx1-ubyte.gz to **emnist-letters-train-labels-idx1-ubyte.gz**      
+ - t10k-images-idx3-ubyte.gz to **emnist-letters-t10k-images-idx3-ubyte.gz**      
+ - t10k-labels-idx1-ubyte.gz to **emnist-letters-t10k-labels-idx1-ubyte.gz**      
        
  ### Downloading data files completed
